@@ -1,0 +1,18 @@
+
+ "TONO" knot-tightening simulation
+ (c) 2004 Dan Stowell
+
+
+"TONO" is a Java app that simulates knot tightening.
+The name stands for "Tighten On No Overlap" - the name
+and the method is inspired by an earlier work by someone
+else called "Shrink On No Overlap".
+
+I wrote this code a long time ago (2004) - I write this readme
+now (2012) because I've had a few requests for the source code.
+I have not tested the code, or even tried compiling it, for
+quite a few years.
+
+
+
+
